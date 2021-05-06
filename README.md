@@ -38,3 +38,15 @@ Modes can be selected at the top and on the side:
 
 	Upload: upload picture by entering its address and name
 		the uploaded picture will be shown on the bottom and can be selected and printed just like in picture mode
+
+
+Screenshots:  
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot0.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot1.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot2.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot3.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot4.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot5.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot6.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot7.jpg"/>
+<img width=300 src="https://github.com/pxlin-09/py_paint/raw/master/Screenshots/screenshot8.jpg"/>
