@@ -1,5 +1,4 @@
-# py_paint
-PAINT
+# PAINT
 By: Alex Lin - 2017
 
 Project info:  
